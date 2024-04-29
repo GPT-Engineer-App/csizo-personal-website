@@ -20,8 +20,8 @@ const Index = () => {
           <Heading as="h2" size="lg">
             About Me
           </Heading>
-          <Text fontSize="md" mt={4}>
-            Hello! I'm Zoltán, a passionate software developer with a keen interest in open-source projects and modern web technologies. I specialize in creating dynamic and user-friendly web applications. I'm always eager to learn new skills and take on challenging projects.
+          <Text fontSize="lg" mt={4}>
+            Hello! I'm Zoltán Csizmazia, a dedicated and detail-oriented software developer with over 10 years of experience in the tech industry. My expertise lies in developing scalable web applications and working with modern technologies. I am passionate about enhancing user experiences and optimizing backend functionalities. I'm always eager to learn new skills and take on challenging projects.
           </Text>
         </Box>
 
