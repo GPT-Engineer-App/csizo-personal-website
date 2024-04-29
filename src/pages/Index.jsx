@@ -40,6 +40,11 @@ const Index = () => {
                 Project Two
               </Button>
             </Link>
+            <Link href="https://chat.openai.com/g/g-McHQntlYS-magyar-mano" isExternal>
+              <Button leftIcon={<Icon as={FaGithub} />} colorScheme="teal" variant="solid">
+                Magyar Manó GPT
+              </Button>
+            </Link>
           </VStack>
         </Box>
 
